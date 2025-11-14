@@ -28,9 +28,9 @@ A web app for booking tickets of shows for users, and to create venues, shows in
 ```http://127.0.0.1:5000:8025```
 
 ## Author
-Developed by **Nv1023**
+Developed by **Vishva2000**
 
 ## License
 
 This project is licensed under the [MIT License](./LICENSE).  
-© 2025 Nv1023. All rights reserved.
+© 2025 Vishva2000. All rights reserved.
